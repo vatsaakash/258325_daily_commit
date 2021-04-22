@@ -5,5 +5,6 @@ solution of unsolved question (given on futureskill) on the topic
 - if-elif-else
 - list
 - set
-- tuple
+- tuple 
+  
 are in their respective folder
