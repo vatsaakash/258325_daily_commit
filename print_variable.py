@@ -1,7 +1,7 @@
 print("Hello")
-a = 5
-print("a =", a)
+num = 5
+print("a =", num)
 
-b = 'akash'
+name = 'akash'
 # Three objects are passed
-print('b =', b)
+print('b =', name)
